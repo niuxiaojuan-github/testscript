@@ -1,6 +1,6 @@
 #!/bin/bash
 
-gitrepo=https://raw.githubusercontent.com/IBM/cp4mcm-samples/master/scripts/cnmon/2.3
+gitrepo=https://raw.githubusercontent.com/niuxiaojuan-github/testscript/main/
 
 wget $gitrepo/operator.yaml
 wget $gitrepo/role.yaml
